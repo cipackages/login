@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+<name>Login</name>
+<author>Biswarup Adhikari</author>
+<title>Biswarup Login</title>
+<authorEmail>samir.150@gmail.com</authorEmail>
+<authorUrl>http://www.biswarupadhikari.com</authorUrl>
+<version>1.0.0</version>
+<description>This is a Biswarup Tets Login</description>
+<files>
+	<filename>readme.txt</filename>
+	<filename>licence.txt</filename>
+	<foldername>application</foldername>
+	<foldername>assets</foldername>
+</files>
+</package>
